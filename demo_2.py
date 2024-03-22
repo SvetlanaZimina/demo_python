@@ -3,7 +3,7 @@ def hello(name):
 
 
 def get_age(age):
-    return age
+    print age
 
 
 def sum(a, b):
