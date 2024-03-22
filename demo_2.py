@@ -10,4 +10,9 @@ def sum(a, b):
     return a + b
 
 
+def get_sum(x, y):
+    return x + y
+
+
+
 
