@@ -7,7 +7,7 @@ def get_age(age):
 
 
 def sum(a, b):
-    return a + b
+    print(a + b)
 
 
 def get_sum(x, y):
